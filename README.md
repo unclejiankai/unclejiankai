@@ -1,5 +1,5 @@
 ### 🛸Hi 嗨,我是建凱叔叔🛸
-![建凱叔叔](https://raw.github.com/unclejiankai/repositpry/master/image-folder/jklogo.png)
+![建凱叔叔](https://raw.github.com/unclejiankai/unclejiankai/main/image-folder/jklogo.png)
 
 ## JK FENG(建凱) 69年🅱️♎️
 
