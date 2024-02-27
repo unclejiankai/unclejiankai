@@ -1,7 +1,7 @@
 ### 🛸Hi 嗨,我是建凱叔叔🛸
 ![建凱叔叔](https://raw.github.com/unclejiankai/unclejiankai/main/image-folder/jklogo.png)
 
-## JK FENG(建凱) 69年🅱️♎️
+## JK FENG(建凱) 🅱️1969♎️
 
 我是一個年過半百已久的大叔, 熱愛所有新事物, 從小對於宇宙和生命的起源就非常的好奇, 從10歲家中有一台APPLE II開始, 電腦就沒離開過我的身邊. 外交部工讀, 修過飛機, 待過銀行, 開過電腦公司, 代理過國外軟體, 教過高中, 做過傳銷, 也當過無業遊民, 最終在大學工作了超過25年。
 
@@ -13,12 +13,14 @@
 
 我的座右銘是要保持年輕人的活力, 老年人的智慧。生命對我而言只是個短暫的存在, 既然任何有形的東西都帶不走, 不如就留下點坎坷路途中體會的經驗, 帶走點走過傷痕累累後學到的智慧。
 
+
+
 如果您有任何需要幫助的地方, 儘管聯繫我!
 
 📫Email: ericckfeng@gmail.com
 
-📘Facebook [Jiankai Feng](https://www.facebook.com/jiankai.feng.12)
+📘![FB](https://raw.github.com/unclejiankai/unclejiankai/main/image-folder/facebook.png =30X )Facebook [Jiankai Feng](https://www.facebook.com/jiankai.feng.12)
 
-📜 Blog [空安常在我心](https://wp.jin999.com/)
+📜Blog [空安常在我心](https://wp.jin999.com/)
 
 📚Vocus [建凱叔叔與少年空安的相講所](https://vocus.cc/salon/unclejiankai)
