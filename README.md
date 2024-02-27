@@ -19,7 +19,7 @@
 
 📫Email: ericckfeng@gmail.com
 
-📘![FB](https://raw.github.com/unclejiankai/unclejiankai/main/image-folder/facebook.png =30X )Facebook [Jiankai Feng](https://www.facebook.com/jiankai.feng.12)
+📘![FB](https://raw.github.com/unclejiankai/unclejiankai/main/image-folder/facebook.png =30x)Facebook [Jiankai Feng](https://www.facebook.com/jiankai.feng.12)
 
 📜Blog [空安常在我心](https://wp.jin999.com/)
 
