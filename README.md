@@ -1,7 +1,8 @@
-### 🛸Hi 嗨,我是建凱叔叔🛸
-![建凱叔叔](https://raw.github.com/unclejiankai/unclejiankai/main/image-folder/jklogo.png)
+<img src="https://raw.github.com/unclejiankai/unclejiankai/main/image-folder/jklogo.png" width="100" height="100"/>
 
-## JK FENG(建凱) 🅱️1969♎️
+### 🛸Hi 嗨,我是建凱叔叔🛸
+
+### JK FENG(建凱) 🅱️1969♎️
 
 我是一個年過半百已久的大叔, 熱愛所有新事物, 從小對於宇宙和生命的起源就非常的好奇, 從10歲家中有一台APPLE II開始, 電腦就沒離開過我的身邊. 外交部工讀, 修過飛機, 待過銀行, 開過電腦公司, 代理過國外軟體, 教過高中, 做過傳銷, 也當過無業遊民, 最終在大學工作了超過25年。
 
@@ -19,8 +20,8 @@
 
 📫Email: ericckfeng@gmail.com
 
-📘![FB](https://raw.github.com/unclejiankai/unclejiankai/main/image-folder/facebook.png =30x)Facebook [Jiankai Feng](https://www.facebook.com/jiankai.feng.12)
+<img src="https://raw.github.com/unclejiankai/unclejiankai/main/image-folder/facebook.png" width="25" height="25"/>[Jiankai Feng](https://www.facebook.com/jiankai.feng.12)
 
-📜Blog [空安常在我心](https://wp.jin999.com/)
+<img src="https://raw.github.com/unclejiankai/unclejiankai/main/image-folder/wordpress.png" width="25" height="25"/>[空安常在我心](https://wp.jin999.com/)
 
-📚Vocus [建凱叔叔與少年空安的相講所](https://vocus.cc/salon/unclejiankai)
+<img src="https://raw.github.com/unclejiankai/unclejiankai/main/image-folder/vocus_logo_square.png" width="25" height="25"/>[建凱叔叔與少年空安的相講所](https://vocus.cc/salon/unclejiankai)
