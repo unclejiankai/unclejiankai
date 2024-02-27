@@ -1,5 +1,6 @@
 ### 🛸Hi 嗨,我是建凱叔叔🛸
-![建凱叔叔](jklogo.png)
+![建凱叔叔](https://raw.github.com/unclejiankai/repositpry/master/image-folder/jklogo.png)
+
 ## JK FENG(建凱) 69年🅱️♎️
 
 我是一個年過半百已久的大叔, 熱愛所有新事物, 從小對於宇宙和生命的起源就非常的好奇, 從10歲家中有一台APPLE II開始, 電腦就沒離開過我的身邊. 外交部工讀, 修過飛機, 待過銀行, 開過電腦公司, 代理過國外軟體, 教過高中, 做過傳銷, 也當過無業遊民, 最終在大學工作了超過25年。
