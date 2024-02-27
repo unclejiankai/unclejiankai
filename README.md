@@ -1,4 +1,4 @@
-###🛸Hi 嗨,我是建凱叔叔🛸
+### 🛸Hi 嗨,我是建凱叔叔🛸
 ![建凱叔叔](jklogo.png)
 ## JK FENG(建凱) 69年🅱️♎️
 
@@ -12,6 +12,9 @@
 
 如果您有任何需要幫助的地方, 儘管聯繫我!
 📫Email: ericckfeng@gmail.com
+
 📘Facebook [Jiankai Feng](https://www.facebook.com/jiankai.feng.12)
+
 📜 Blog [空安常在我心](https://wp.jin999.com/)
+
 📚Vocus [建凱叔叔與少年空安的相講所](https://vocus.cc/salon/unclejiankai)
